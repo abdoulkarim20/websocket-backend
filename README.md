@@ -2,8 +2,5 @@
 ### Les étapes à suivre pour implementer le web socket sur une application backend java "Spring boot" sont:
 #### 1- Ajout la dépendance ci-dessous:
 Cliquer sur ce lien https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-websocket
-<-- <dependency>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter-websocket</artifactId>
-  <version>3.0.6</version>
-</dependency> -->
+#### 2- Veuillez-vous referez sur le chemin ci-dessous pour plus de visibilité sur les configurations.
+https://github com/abdoulkarim20/websocket-backend/blob/main/src/main/java/court/apprentissage/realtimeapplication/business/web Socket
